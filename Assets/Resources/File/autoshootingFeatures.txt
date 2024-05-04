@@ -1,0 +1,8 @@
+﻿turnSpeed=10.0
+startShootingTime=0.0
+repeatShootingTime=0.5
+bulletPoolSize=10
+scaleWeapon=1.2
+handOffset=0.413,0.038,0.221
+weaponRotation=90.0,0.0,0.0
+initialFireCountDown=0.1

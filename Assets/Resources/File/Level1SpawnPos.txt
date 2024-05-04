@@ -1,0 +1,13 @@
+SpawnPoints;11;
+SpawnPointID;numItems;Items;
+SP1;1;A;
+SP2;1;A;
+SP3;1;H;
+SP4;1;H;
+SP5;1;H;
+SP6;1;C;
+SP7;1;C;
+SP8;1;C;
+SP9;1;A;
+SP10;1;A;
+SP11;1;A;

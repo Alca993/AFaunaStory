@@ -1,0 +1,7 @@
+firstTH=0.5
+secondTH=0.75
+healtBar=100
+startApples=0
+startChickens=0
+powerUp=20
+powerUpCountDown=8

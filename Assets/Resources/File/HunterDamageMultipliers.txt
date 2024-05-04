@@ -1,0 +1,6 @@
+velocity=1
+range=18
+rotationSpeed=0.0
+radius=0.0
+maxDistance=0.0
+playerDamageMultiplier=0.0

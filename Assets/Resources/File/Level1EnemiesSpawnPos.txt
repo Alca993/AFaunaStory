@@ -1,0 +1,7 @@
+SpawnPoints;5;
+SpawnPointID;numEnemies;Enemies;
+SP1;1;F;
+SP2;1;C;
+SP3;1;F;
+SP4;1;F;
+SP5;1;C;

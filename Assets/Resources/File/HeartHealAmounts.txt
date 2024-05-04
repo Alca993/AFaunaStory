@@ -1,0 +1,1 @@
+playerHealAmount=10.0

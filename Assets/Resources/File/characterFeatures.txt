@@ -1,0 +1,6 @@
+speed=4.5
+gravity=-9.8
+runBoost=1.5
+jumpForce=5.0
+rotationSensitivity=9.0
+damageTimeout=1.0

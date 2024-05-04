@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: c59a20e486f80ba4e859d4ef9574f9bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: fox
+    100002: Fox_F_LLeg1
+    100004: Fox_F_LLeg2
+    100006: Fox_F_LLegAnkle
+    100008: Fox_F_LLegDigit11
+    100010: Fox_F_RLeg1
+    100012: Fox_F_RLeg2
+    100014: Fox_F_RLegAnkle
+    100016: Fox_F_RLegDigit11
+    100018: Fox_Head
+    100020: Fox_Jaw
+    100022: Fox_LEar1
+    100024: Fox_LEar2
+    100026: Fox_LEye
+    100028: Fox_LLeg1
+    100030: Fox_LLeg2
+    100032: Fox_LLegAnkle
+    100034: Fox_LLegDigit11
+    100036: Fox_LowerLEyelid
+    100038: Fox_LowerREyelid
+    100040: Fox_Pelvis
+    100042: Fox_REar1
+    100044: Fox_REar2
+    100046: Fox_REye
+    100048: Fox_Ribcage
+    100050: Fox_RLeg1
+    100052: Fox_RLeg2
+    100054: Fox_RLegAnkle
+    100056: Fox_RLegDigit11
+    100058: //RootNode
+    100060: Fox_Spine
+    100062: Fox_Spine1
+    100064: Fox_Spine2
+    100066: Fox_Tail1
+    100068: Fox_Tail2
+    100070: Fox_Tail3
+    100072: Fox_Tail4
+    100074: Fox_Tail5
+    100076: Fox_Tail6
+    100078: Fox_UpperLEyelid
+    100080: Fox_UpperREyelid
+    100082: FoxTransform
+    400000: fox
+    400002: Fox_F_LLeg1
+    400004: Fox_F_LLeg2
+    400006: Fox_F_LLegAnkle
+    400008: Fox_F_LLegDigit11
+    400010: Fox_F_RLeg1
+    400012: Fox_F_RLeg2
+    400014: Fox_F_RLegAnkle
+    400016: Fox_F_RLegDigit11
+    400018: Fox_Head
+    400020: Fox_Jaw
+    400022: Fox_LEar1
+    400024: Fox_LEar2
+    400026: Fox_LEye
+    400028: Fox_LLeg1
+    400030: Fox_LLeg2
+    400032: Fox_LLegAnkle
+    400034: Fox_LLegDigit11
+    400036: Fox_LowerLEyelid
+    400038: Fox_LowerREyelid
+    400040: Fox_Pelvis
+    400042: Fox_REar1
+    400044: Fox_REar2
+    400046: Fox_REye
+    400048: Fox_Ribcage
+    400050: Fox_RLeg1
+    400052: Fox_RLeg2
+    400054: Fox_RLegAnkle
+    400056: Fox_RLegDigit11
+    400058: //RootNode
+    400060: Fox_Spine
+    400062: Fox_Spine1
+    400064: Fox_Spine2
+    400066: Fox_Tail1
+    400068: Fox_Tail2
+    400070: Fox_Tail3
+    400072: Fox_Tail4
+    400074: Fox_Tail5
+    400076: Fox_Tail6
+    400078: Fox_UpperLEyelid
+    400080: Fox_UpperREyelid
+    400082: FoxTransform
+    2100000: 08 - Default
+    4300000: fox
+    7400000: Fox_Sit1
+    9500000: //RootNode
+    13700000: fox
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fox_Sit1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: FoxTransform
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

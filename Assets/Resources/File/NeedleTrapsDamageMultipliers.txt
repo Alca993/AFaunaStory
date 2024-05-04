@@ -1,0 +1,1 @@
+playerDamageMultiplier=15.0

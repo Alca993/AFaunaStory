@@ -1,0 +1,3 @@
+minimumDistance=0.1
+checkDistance=0.5
+checkObstacleDistance=1.3

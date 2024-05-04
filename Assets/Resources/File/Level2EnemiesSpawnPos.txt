@@ -1,0 +1,12 @@
+SpawnPoints;10;
+SpawnPointID;numEnemies;Enemies;
+SP1;3;S;S;S;
+SP2;1;H;
+SP3;1;F;
+SP4;1;F;
+SP5;1;C;
+SP6;1;F;
+SP7;1;F;
+SP8;1;C;
+SP9;1;C;
+SP10;1;F;

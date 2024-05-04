@@ -1,0 +1,4 @@
+type=Bullet
+description=Simple bullet damage, weapon 1
+amount=5.0
+speed=70.0
